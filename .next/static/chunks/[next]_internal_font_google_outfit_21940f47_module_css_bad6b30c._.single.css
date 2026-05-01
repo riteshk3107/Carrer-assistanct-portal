@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/outfit_21940f47.module.css [app-client] (css) */
+@font-face {
+  font-family: Outfit Fallback;
+  src: local(Arial);
+  ascent-override: 100.18%;
+  descent-override: 26.05%;
+  line-gap-override: 0.0%;
+  size-adjust: 99.82%;
+}
+
+.outfit_21940f47-module__B-V10W__className {
+  font-family: Outfit, Outfit Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_outfit_21940f47_module_css_bad6b30c._.single.css.map*/
